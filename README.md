@@ -7,8 +7,8 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/Uchqun745">
+    <img src="https://img.shields.io/badge/-telegram-blue" alt="telegram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=uchkun-ux&style=flat-square&color=blue" alt=""/>
