@@ -54,5 +54,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchkun-ux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Blog Post](https://dev.to/uchkun/being-a-web-developer-is-always-difficult-its-a-creative-job-h4j)
 <!-- BLOG-POST-LIST:END -->
